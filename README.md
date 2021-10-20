@@ -7,11 +7,11 @@
 </div>
 
 # Education
-1. <span style="text-align:left"><b>Toyo University<span style="float:right">Sep 2020 - Apr 2024</span> </b></span>  
+1. <span style="text-align:left"><b>Toyo University <span style="float:right">Sep 2020 - Apr 2024</span> </b></span>  
 	2nd year Engineering Student of INIAD   
 	Cumulative GPA: 4.15/4.30
-2. <span style="text-align:left"><b>VNU University of Engineering and Technology<span style="float:right">Sep 2019 - Jul 2020</span> </b></span>  
-3. <span style="text-align:left"><b>HUS High School for Gifted Student<span style="float:right">Sep 2016 - Jul 2019</span> </b></span>  
+2. <span style="text-align:left"><b>VNU University of Engineering and Technology <span style="float:right">Sep 2019 - Jul 2020</span> </b></span>  
+3. <span style="text-align:left"><b>HUS High School for Gifted Student <span style="float:right">Sep 2016 - Jul 2019</span> </b></span>  
 
 # Experience   
   <span style="text-align:left"><b>HSGS Code Camp </b><span style="float:right">2018-2019</span> </span>   
